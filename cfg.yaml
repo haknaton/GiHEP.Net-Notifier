@@ -1,0 +1,9 @@
+mail-local: SERVER_HOST_DNS
+mail-user: SERVER_SMTP_USER
+mail-pw: SERVER_SMTP_PASSWORD
+mail-port: SERVER_STMP_PORT
+mail-server: SERVER_SMTP_HOST
+mail-from: SERVER_SMTP_EMAIL
+mail-to: YOUR_EMAIL
+pw: EV_PASSWORD
+user: EV_USER
